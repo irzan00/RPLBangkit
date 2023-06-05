@@ -1,0 +1,88 @@
+.product__detail {
+    margin-top: 50px;
+}
+.product__detail h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+.product__detail span i {
+    color: coral;
+}
+.product__rating p span {
+    color: coral;
+}
+.product__img{
+    padding: 10px;
+}
+.product__price {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.description__product span{
+    padding-top: 20px;
+}
+
+.detail{
+    border: 1px solid;
+    justify-content: center;align-items: center;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 50px;
+    box-shadow: 3px 3px 8px -3px #000000;
+}
+.reviewAkhlak{
+    padding-top: 20px;
+}
+.tab__wrapper h6{
+    color: var(--primary-color);
+    font-weight: 500;
+    font-size: 1rem;
+    padding: 20px;
+}
+.review__wrapper ul li span{
+    color: coral;
+    font-weight: 600;
+}
+.review__wrapper ul li p{
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.review__form{
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px solid var(--primary-color);
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 8px -3px #000000;
+}
+.review__form h4{
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.form__group{
+    width: 100%;
+    border: 1px solid var(--primary-color);
+    border-radius: 20px;
+    padding: 8px 20px;
+}
+.form__group-stars{
+    padding: 10px;
+}
+.form__group-stars span{
+    font-weight: 600;
+    color: coral;
+    cursor: pointer;
+}
+.form__group input,.form__group textarea{
+    width: 100%;
+    outline: none; 
+    background-color: unset; 
+    border: none;
+}
+.related__title{
+    font-size: 1.2rem;
+    font-weight: 600;
+    
+}

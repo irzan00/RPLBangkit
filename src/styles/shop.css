@@ -1,0 +1,32 @@
+.filter__widget select{
+    padding: 10px 20px;
+    border: 1px solid;
+    color: #fff;
+    border-radius: 5px;
+    background: var(--primary-color);
+}
+
+.search__box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffffff; 
+    padding: 5px 16px; 
+    border-radius: 40px; 
+    width: 100%;
+    outline: auto;
+}
+.search__box input{
+    border: none; 
+    width: 100%;
+    outline: none; 
+    background-color: unset; 
+    padding:4px;
+}
+.search__box span{
+    color: var(--primary-color);
+}
+.widgets{
+    margin-bottom: -200px;
+    padding-top: 20px;
+}

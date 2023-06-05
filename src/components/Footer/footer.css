@@ -1,0 +1,46 @@
+.footer{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    background: #fff ;
+}
+.logo{
+    padding-left: 80px;
+}
+
+.footer__text{
+    line-height: 30px;
+    padding-left: 80px;
+    align-items: center;
+}
+
+.quick__links-title{
+    margin-bottom: 10px;
+    color: var(--primary-color);
+    font-size: 1.2rem;
+    font-weight: 600;
+    
+}
+
+.footer-awikwok{
+    margin-bottom: 30px;
+    color: var(--primary-color);
+    font-size: 1.2rem;
+    padding-left: 80px;
+    padding-right: 20px;
+    line-height: 30px;
+}
+.footer__contact li{
+    color: var(--primary-color);padding-right: 80px;
+}
+.footer__contact li span, .footer__contact{
+    color: var(--primary-color); 
+}
+.footer__quick-links li{
+    padding: 6.5px;
+}
+.footer__copyright{
+    align-items: center;
+    margin-top: 60px;
+    font-size: .9rem;
+    text-align: center;
+}

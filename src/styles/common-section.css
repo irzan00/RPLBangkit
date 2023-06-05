@@ -1,0 +1,13 @@
+.common__section{
+    background: linear-gradient(rgba(0,0,0,0.562), rgba(0,0,0,0.562)),
+    url("../assets/images/cuakks.jpg") no-repeat center center;
+    background-size: cover;
+    padding:  100px 0px;
+    
+    height: 100px;
+}
+
+.common__section  h1{
+    color: #fff;
+    font-weight: 600;
+}

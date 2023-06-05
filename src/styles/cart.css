@@ -1,0 +1,25 @@
+.table tr td img{
+    width: 80px !important;
+    height: 80px !important;
+    object-fit: cover;
+}
+td i{
+    cursor: pointer;
+}
+td{
+    color: var(--primary-color);
+}
+.box__total{
+    padding: 15px;
+    margin: auto;
+    border: 1px solid var(--primary-color);
+    border-radius: 20px;
+    box-shadow: 3px 3px 8px -3px #000000;
+}
+.buy__btn{
+    align-items: center;
+    gap: 0px;
+    justify-content: center;
+    margin-bottom: 0px;
+
+}
